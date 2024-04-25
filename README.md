@@ -1,4 +1,5 @@
-# soltrust
+# Soltrust
+A decentralized p2p exchange built on solana blockchain utilizing an escrow contract for trade settlements, a swap and a bridge functionality.
 
 ## Getting Started
 
@@ -15,8 +16,8 @@
 #### Clone the repo
 
 ```shell
-git clone <repo-url>
-cd <repo-name>
+git clone [<repo-url>](https://github.com/Blessedbiello/soltrustfront)
+cd soltrustfront
 ```
 
 #### Install Dependencies
